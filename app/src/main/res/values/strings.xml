@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExamenParcial1</string>
+    <string name="ubicacion">Suc. 1: Zaragoza #213 Zona</string>
+    <string name="ubicacion1">Centro, Calvillo Ags.\n</string>
+    <string name="ubicacionnew">Suc. 1: Zaragoza #213 Zona\nCentro, Calvillo Ags.\nSuc. 2: Blvd. Rodolfo Landeros\n#150, Calvillo Ags.\nSuc. 3: Av. Aguascalientes Sur\n#436 Local 9-A, Col. España,\nAgs.</string>
+    <string name="telefono">495 956 1635, 495 956 7228 y 449\n320 6501</string>
+    <string name="llamar">Llamar</string>
+    <string name="whatsapp">WhatsApp</string>
+</resources>
